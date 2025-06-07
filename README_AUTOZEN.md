@@ -49,14 +49,5 @@ Contáctanos directamente:
 
 ---
 
-## 🚀 ¿Cómo publicar esto como sitio web?
-1. Crea un repositorio en GitHub llamado `autozen`
-2. Coloca este `README.md` dentro
-3. Sube tus imágenes a una carpeta `img`
-4. Activa GitHub Pages desde Settings > Pages (elige `main` y carpeta `/`)
-5. Tu web estará en: `https://TU_USUARIO.github.io/autozen/`
-
----
-
 Gracias por visitar **AutoZen**.  
 Cuidamos tu auto como si fuera nuestro. 🚗🫧
