@@ -2,13 +2,7 @@
 **Más que limpieza, renovación total**
 
 Bienvenido a **AutoZen**, especialistas en limpieza automotriz, ambientadores duraderos y productos de cuidado premium para tu vehículo.
-
-
- 
- IMG_0115.jpg
- 
-
-## 🧽 Productos Nevauto
+ ## 🧽 Productos Nevauto
 
 | Producto | Descripción | Precio |
 |----------|-------------|--------|
@@ -20,10 +14,6 @@ Bienvenido a **AutoZen**, especialistas en limpieza automotriz, ambientadores du
 | **Ruedas y Plásticos 500ml** | Renueva neumáticos y plásticos dañados. Sin siliconas. | 6,50 € |
 | **Quick Detailer (Cera Líquida) 500ml** | Cera en spray para carrocerías limpias y secas. | 6,50 € |
 
-🖼️ Puedes agregar imágenes subiendo archivos a `/img` y luego usar:
-```md
-![Nombre del producto](img/nombre-de-la-imagen.jpg)
-```
 
 ---
 
