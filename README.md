@@ -34,7 +34,8 @@ Contáctanos directamente:
 [Enviar mensaje por WhatsApp](https://wa.me/34609762638)
 
 ### 📧 Formulario web (te llegará por correo)
-[Haz clic para contactarnos](https://formsubmit.co/luisitocheor@gmail.com)
+[Haz clic para contactarnos] 
+(https://formsubmit.co/luisitocheor@gmail.com)
 
 > Este enlace abrirá un formulario para que tus clientes puedan dejarte nombre, email y mensaje. Los mensajes llegarán directamente a tu correo **luisitocheor@gmail.com**.  
 > No se necesita servidor ni base de datos.
